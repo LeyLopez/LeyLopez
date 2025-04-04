@@ -30,7 +30,7 @@
 🔹 **Plataforma de Compra/Venta** - Marketplace universitario con gestión de productos y usuarios.
 
 ### 📫 Me puedes encontrar en: 
-📌 ***LinkedIn:*** [linkedin.com/in/leydislopez](#)
+📌 ***LinkedIn:*** [www.linkedin.com/in/leidis-lopez](#)
 📌 ***GitHub:*** [github.com/leydislopez](#)
 📌 ***Email:*** leylopez2023@gmail.com
 

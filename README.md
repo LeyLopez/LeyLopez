@@ -1,6 +1,6 @@
 ## ¡Hola! 👋 Soy Leydis Lopez
 
-🚀 Soy una persona apasionada por el desarrollo de software con experiencia en backend, bases de datos y tecnologías frontend. Me gusta aprender y enfrentar nuevos desafíos tecnológicos. Actualmente, estoy desarrollando un **Sistema de Reservas y Préstamos de Bibliotecas**, donde integro **Spring Boot** en el backend y **React** en el frontend para mejorar mis habilidades y conocimientos.
+🚀 Soy estudiante en último semestre de Ingeniería de Sistemas. Soy una persona apasionada por el desarrollo de software con experiencia en backend, bases de datos y tecnologías frontend. Me gusta aprender y enfrentar nuevos desafíos tecnológicos. Actualmente, estoy desarrollando un **Sistema de Reservas y Préstamos de Bibliotecas**, donde integro **Spring Boot** en el backend y **React** en el frontend para mejorar mis habilidades y conocimientos.
 
 📌  Actualmente, me encuentro aprendiendo **Django y Next.js**, explorando las capacidades de estos frameworks para crear soluciones escalables y eficientes.
 

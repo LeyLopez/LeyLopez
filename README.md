@@ -51,7 +51,7 @@
 
 ## 🚀 Let's Connect!
 
-🌐 [LinkedIn](https://www.linkedin.com/leidis-lopez) | 📬 Email: leylopez2023@gmail.com
+🌐 [LinkedIn](https://www.linkedin.com/in/leidis-lopez) | 📬 Email: leylopez2023@gmail.com
 
 
 <!-- ### 📌 Mis proyectos destacados:

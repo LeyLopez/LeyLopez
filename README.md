@@ -1,8 +1,8 @@
 ## Hi, mate! 👋 I'm Leydis Lopez
 
-🎓 I’m a **Systems Engineering student** with a strong passion for **software development**. I have experience in **backend development**, **databases**, and **frontend technologies**. I’m constantly learning and enjoy tackling new technological challenges.  
+🎓 I’m a **Systems Engineering student** with a strong passion for **software development**. I have experience in **API development**, **databases**, and **frontend technologies**. I’m constantly learning and enjoy tackling new technological challenges.  
 
-📚 Currently exploring **Django** and diving into the world of **Machine Learning**. I love participating in projects that allow me to **grow as a developer** and **contribute to the tech community**.
+📚 Currently exploring **Django** and diving into the world of backend development. I love participating in projects that allow me to **grow as a developer** and **contribute to the tech community**.
 
 
 ## 🛠️ Technologies & Tools
@@ -30,15 +30,9 @@
 ## 📊 GitHub Stats
 
 ![Leydis's GitHub stats](https://github-readme-stats.vercel.app/api?username=leylopez&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leylopez&layout=compact&theme=radical)
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=leylopez&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ## 🌟 GitHub Activity
 

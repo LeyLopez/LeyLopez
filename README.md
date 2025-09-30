@@ -1,9 +1,12 @@
-## Hi, mate! 👋 I'm Leydis Lopez
+## Hello, mate! 👋 I'm Leydis Lopez
 
-🎓 I’m a **Systems Engineering student** with a strong passion for **software development**. I have experience in **API development**, **databases**, and **frontend technologies**. I’m constantly learning and enjoy tackling new technological challenges.  
+🎓 I’m a **Systems Engineering student** passionate about **software development** and building impactful solutions. My experience spans **API development**, **databases**, and **frontend technologies**.  
 
-📚 Currently exploring **Django** and diving into the world of backend development. I love participating in projects that allow me to **grow as a developer** and **contribute to the tech community**.
+💡 I enjoy solving problems through code, embracing new challenges, and continuously learning.  
 
+📚 Currently, I’m exploring **Django** and deepening my knowledge of **backend development** and **Machine Learning**. I love contributing to projects that help me **grow as a developer** and give back to the **tech community**.  
+
+---
 
 ## 🛠️ Technologies & Tools
 
@@ -48,30 +51,3 @@
 🌐 [LinkedIn](https://www.linkedin.com/in/leidis-lopez) | 📬 Email: leylopez2023@gmail.com
 
 
-<!-- ### 📌 Mis proyectos destacados:
-🔹 **Sistema de Reservas y Préstamos de Bibliotecas** - Gestión eficiente de bibliotecas con control de usuarios y reservas.
-
-🔹 **Plataforma de Compra/Venta** - Marketplace universitario con gestión de productos y usuarios.
-
-### 📫 Me puedes encontrar en: 
-📌 ***LinkedIn:*** [www.linkedin.com/in/leidis-lopez](#)
-
-📢 ¡Estoy abierta a colaboraciones y nuevos proyectos!>
-
-
-
-
-<!--
-**LeyLopez/LeyLopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

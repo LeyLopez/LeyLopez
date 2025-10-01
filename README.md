@@ -6,7 +6,7 @@
 
 📚 Currently, I’m exploring **Django** and deepening my knowledge of **backend development** and **Machine Learning**. I love contributing to projects that help me **grow as a developer** and give back to the **tech community**.  
 
----
+
 
 ## 🛠️ Technologies & Tools
 

@@ -1,6 +1,6 @@
 ## Hello, mate! 👋 I'm Leydis Lopez
 
-🎓 I’m a **Systems Engineering student** passionate about **software development** and building impactful solutions. My experience spans **API development**, **databases**, and **frontend technologies**.  
+🎓 I’m a **Systems Engineering Professional** passionate about **software development** and building impactful solutions. My experience spans **API development**, **databases**, and **frontend technologies**.  
 
 💡 I enjoy solving problems through code, embracing new challenges, and continuously learning.  
 
